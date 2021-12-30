@@ -9,3 +9,5 @@ use html, css, js
  - Auto load data
  - Masonry
  - search image
+
+Demo: https://divluffy.github.io/pinterest/
