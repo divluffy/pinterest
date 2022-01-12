@@ -8,6 +8,7 @@ use html, css, js
  - API image
  - Auto load data
  - Masonry
- - search image
+ - loaded image
+ - search
 
 Demo: https://divluffy.github.io/pinterest/
